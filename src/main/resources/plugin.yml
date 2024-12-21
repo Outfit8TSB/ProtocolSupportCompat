@@ -1,4 +1,4 @@
-name: VVPSCompat
+name: ProtocolSupportCompat
 main: com.viaversion.pscompat.PSCompatPlugin
 authors: [ _MylesC, kennytv ]
 version: 1.0.0
